@@ -1,4 +1,7 @@
 # Distractor-Aware-Visual-Tracking-Using-Hierarchical-Correlation-Filters-Adaptive-Selection
-Code and data
+Jianming Zhang, Yang Liu, Hehua Liu, Jin Wang, Yudong Zhang
+Submitted to *Applied Intelligence*.
 
-If the paper is accepted, we will publish our detailed code and data
+If the paper is accepted, we will publish our detailed code and data.
+
+Code and data
