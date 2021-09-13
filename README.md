@@ -2,6 +2,8 @@
 Jianming Zhang, Yang Liu, Hehua Liu, Jin Wang, Yudong Zhang </br>
 Submitted to *Applied Intelligence*.
 
-If the paper is accepted, we will publish our detailed code and data.
+The paper is accepted, please cite it.
 
-Code and data
+
+Jianming Zhang, Yang Liu, Hehua Liu, Jin Wang, Yudong Zhang. Distractor-aware visual tracking using hierarchical correlation filters adaptive selection. *Applied Intelligence*, 2021, DOI: 10.1007/s10489-021-02694-8.
+
